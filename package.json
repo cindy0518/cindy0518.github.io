@@ -1,5 +1,5 @@
 {
-  "name": "rosethorn999.github.io",
+  "name": "cindy0518.github.io",
   "version": "1.0.0",
   "description": "portfolio",
   "scripts": {
@@ -13,19 +13,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rosethorn999/rosethorn999.github.io.git"
+    "url": "git+https://github.com/cindy0518/cindy0518.github.io.git"
   },
   "keywords": [
     "portfolio",
     "alextzeng",
-    "rosethorn999"
+    "cindy0518"
   ],
-  "author": "rosethorn999",
+  "author": "cindy0518",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rosethorn999/rosethorn999.github.io/issues"
+    "url": "https://github.com/cindy0518/cindy0518.github.io/issues"
   },
-  "homepage": "https://github.com/rosethorn999/rosethorn999.github.io#readme",
+  "homepage": "https://github.com/cindy0518/cindy0518.github.io#readme",
   "devDependencies": {
     "@babel/core": "^7.20.12",
     "@babel/preset-env": "^7.20.2",
